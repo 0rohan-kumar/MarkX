@@ -47,9 +47,9 @@ python Mark.py #for direct launch
 And more coming soon...
 ## Author
 
-👤 **Rohan Kumar** , **Aarush tayal**
-* Github: [@rohanCoderMan](https://github.com/rohanCoderMan)
-* Github: [@Aarusht](https://github.com/Aarusht)
+👤 **Rohan Kumar** 
+* Github: [@rohanCoderMan](https://github.com/rohanCoderMan) And this id as well
+
 ## Show your support
 Give a ⭐️ if this project helped you!
 <center> 
